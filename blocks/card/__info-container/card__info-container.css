@@ -1,0 +1,10 @@
+.card__info-container {
+  margin: 0;
+  padding: 0 20px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  gap: 10px;
+}

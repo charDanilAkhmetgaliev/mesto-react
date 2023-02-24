@@ -1,0 +1,9 @@
+.card__like-container {
+  margin: 0;
+  padding: 0;
+  max-width: 22px;
+  max-height: 35px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}

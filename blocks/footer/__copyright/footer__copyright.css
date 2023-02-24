@@ -1,0 +1,15 @@
+.footer__copyright {
+  margin: 0;
+  padding: 0;
+  color: rgb(84, 84, 84);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+@media screen and (min-width: 900px) {
+  .footer__copyright {
+    font-size: 18px;
+    line-height: 22px;
+  }
+}
