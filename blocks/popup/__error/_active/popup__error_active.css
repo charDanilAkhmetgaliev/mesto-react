@@ -1,0 +1,5 @@
+.popup__error_active {
+    color: rgb(255, 0, 0);
+    font-size: 12px;
+    line-height: 12px;
+}
